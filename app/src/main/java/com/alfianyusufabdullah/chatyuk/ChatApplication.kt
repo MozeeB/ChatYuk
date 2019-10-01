@@ -26,3 +26,5 @@ class ChatApplication : Application() {
         startKoin { modules(chatModule) }
     }
 }
+
+// KSJDIUWHDIL
